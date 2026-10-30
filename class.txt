@@ -3,3 +3,6 @@ this is class
 this is modified file
 
 this is the latest modification you need 
+ int d=2;
+
+task 101 to creating the method m1
