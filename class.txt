@@ -3,3 +3,6 @@ this is class
 this is modified file
 
 this is the latest modification you need 
+
+this is the demo for the git revert command.
+
